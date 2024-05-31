@@ -1,0 +1,16 @@
+ #hex{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bolder;
+    font-size: 50mm;
+ }
+ #bg{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: large;
+
+ }
+ .align {
+   vertical-align: middle;
+   text-align: center;
+
+ }
